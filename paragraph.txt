@@ -1,0 +1,6 @@
+The journey of learning to code can be both exciting and challenging.
+Node.js is a powerful runtime that allows you to build scalable applications.
+By using asynchronous operations, developers can ensure non-blocking execution.
+This project demonstrates how to read a text file using Node.js.
+It's important to understand how the file system module works.
+Mastering basic Node.js operations is essential for backend development.
